@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "D:///Program Files//C++"
+		},
+	],
+	"settings": {
+		"editor.fontSize": 22,
+		"debug.onTaskErrors": "debugAnyway",
+		"files.encoding": "gb2312",
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp"
+		},
+		"background.enabled": true,
+		"background.useDefault": false,
+		"background.customImages": [
+			"file:///D:///like.jpg"
+		],
+		"background.style": {
+			"content": "''",
+			"pointer-events": "none",
+			"position": "absolute",
+			"z-index": "99999",
+			"width": "100%",
+			"height": "100%",
+			"background-position": "center",
+			"background-repeat": "no-repeat",
+			"background-size":"100%,100%",
+			"opacity": 0.1
+		},
+	}
+}
